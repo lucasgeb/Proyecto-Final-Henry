@@ -1,2 +1,4 @@
-# Proyecto-Final-Henry
-Proyecto: Exploración y analisis de datos para la adquisición de derechos televisivos de partidos de básquet profesional
+<div align="center">
+<h1 align="center">Hola, somos Nombre Equipo</a> 👋</h1>
+</div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://lucasgebhardt.com.ar/wp-content/uploads/2024/05/BASKETBALL-ANALISIS.png)">
