@@ -1,4 +1,6 @@
 <div align="center">
+
+:construction: Proyecto en construcción :construction:	
 <h1 align="center">Hola, somos 3LFM Consulting👋</h1><h2 align="center">Y este es nuestro proyecto final para el Bootcamp de Data Analytics de Henry</h2>
 </div>
 <img src="https://lucasgebhardt.com.ar/wp-content/uploads/2024/05/Diseno-sin-titulo-9.png">
@@ -74,6 +76,9 @@ El dataset incluye datos de más de 4,800 jugadores, 65,000 partidos, estadísti
 
 ## Plan de Análisis
 
+> [!NOTE]
+> El trabajo se ejecuta en el lapso de dos semanas
+
 ### Requerimientos del Caso
 
 - Recopilar datos relevantes sobre equipos universitarios y de la NBA, historial de drafts, salarios de jugadores, resultados de partidos y estadísticas.
@@ -111,3 +116,9 @@ El dataset incluye datos de más de 4,800 jugadores, 65,000 partidos, estadísti
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/81046230?v=4" width=115><br><sub>Lucas Gebhardt</sub>](https://github.com/lucasgeb) | [<img src="https://avatars.githubusercontent.com/u/150839933?v=4" width=115><br><sub>Laura Constanzo</sub>](https://github.com/LGConstanzo) | [<img src="https://avatars.githubusercontent.com/u/110009701?v=4" width=115><br><sub>Mauro Diaz Ruffino</sub>](https://github.com/TitoGod) | [<img src="https://avatars.githubusercontent.com/u/70545645?v=4" width=115><br><sub>Fernando Colazo</sub>](https://github.com/Frrcolazo123/) | [<img src="https://avatars.githubusercontent.com/u/66878638?v=4" width=115><br><sub>Luis Velasquez</sub>](https://github.com/Velasquez4701) |
+| :---: | :---: | :---: | :---: | :---: |
+
