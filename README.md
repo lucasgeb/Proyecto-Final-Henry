@@ -5,11 +5,11 @@
 </div>
 <img src="https://lucasgebhardt.com.ar/wp-content/uploads/2024/05/Diseno-sin-titulo-9.png">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
 
 
 <div align="center">
