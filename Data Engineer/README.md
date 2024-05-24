@@ -19,7 +19,6 @@
 
 #### Tablas:
 - **[Proveniencia]**: Contiene información sobre la institución de donde vienen los jugadores.
-- **[Player_Stats]**: Almacena las estadísticas de rendimiento de los jugadores.
 - **[Player]**: Contiene información básica y biográfica de los jugadores de la NBA.
 - **[Draft]**: Info del Historial de los jugadores seleccionados en el draft de la NBA.
 - **[Teams]**: Información sobre los equipos de la NBA.
@@ -28,7 +27,6 @@
 - **[City]**: Tabla con las ciudades y su respectivo identificador.
 - **[Arena]**: Información sobre los estadios (“arenas”) donde se juegan los partidos.
 - **[Games]**: Información sobre los partidos jugados.
-- **[Dates]**: Tabla con información de fecha de los partidos.
 - **[Game_Stats]**: Estadísticas detalladas de cada partido.
 - **[Season]**: Información de la temporada.
 - **[Team_historty]**: Información histórica de los equipos.
