@@ -30,9 +30,11 @@
 - **[Games]**: Información sobre los partidos jugados.
 - **[Dates]**: Tabla con información de fecha de los partidos.
 - **[Game_Stats]**: Estadísticas detalladas de cada partido.
+- **[Season]**: Información de la temporada.
+- **[Team_historty]**: Información histórica de los equipos.
 
 ### ETL (Extract, Transform, Load)
-- **Extracción**: Importación de datos desde archivos CSV o mediante la API de Kaggle.
+- **Extracción**: Importación de datos desde archivos CSV de Kaggle.
 - **Transformación**: Limpieza de datos, tratamiento de valores nulos, normalización y creación de nuevas columnas calculadas.
 - **Carga**: Inserción de los datos limpios y transformados en las tablas correspondientes de la base de datos.
 
@@ -41,7 +43,6 @@
 ### Limpieza y Transformación
 - Uso de Pandas para realizar operaciones de limpieza y transformación.
 - Tratamiento de valores atípicos y datos faltantes.
-- Creación de características adicionales (feature engineering) para enriquecer el análisis.
 
 ### Automatización
 - Implementación de scripts de ETL para la actualización automatizada de datos.
@@ -76,10 +77,11 @@
 - Monitoreo del rendimiento del pipeline y ajustes según sea necesario.
 - Documentación y actualización continua del código y scripts utilizados.
 
-## Herramientas y Tecnologías Sugeridas
-- **Python**: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn.
+## Herramientas y Tecnologías 
+- **Python**: Pandas, Numpy, Matplotlib, Seaborn, Watchdog, SQL Alchemy.
 - **SQL Server**: Para almacenamiento y consultas eficientes.
 - **Power BI**: Para visualización y creación de dashboards.
-- **Apache Airflow**: Para la automatización de tareas de ETL.
+- **Watchdog**: Para la automatización de tareas de ETL.
 
-Con este pipeline proporcionamos un flujo estructurado y sistemático para manejar, procesar y analizar el dataset de la NBA, asegurando que los datos sean precisos, actualizados y presentados de manera efectiva para la toma de decisiones.
+Con este pipeline proporcionamos un flujo estructurado y sistemático para manejar, procesar y analizar el dataset,
+asegurando que los datos sean precisos, actualizados y presentados de manera efectiva para la toma de decisiones.
