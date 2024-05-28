@@ -3,7 +3,10 @@
 :construction: Proyecto en construcción :construction:	
 <h1 align="center">Hola, somos 3LFM Consulting👋</h1><h2 align="center">Y este es nuestro proyecto final para el Bootcamp de Data Analytics de Henry</h2>
 </div>
+<div align="center">
+<img src="https://lucasgebhardt.com.ar/wp-content/uploads/2024/05/Black-and-Blue-Technology-Logo.png">
 <img src="https://lucasgebhardt.com.ar/wp-content/uploads/2024/05/Diseno-sin-titulo-9.png">
+</div>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/lucasgeb/Proyecto-Final-Henry?style=for-the-badge)
