@@ -1,6 +1,5 @@
 <div align="center">
 
-:construction: Proyecto en construcción :construction:	
 <h1 align="center">Hola, somos 3LFM Consulting👋</h1><h2 align="center">Y este es nuestro proyecto final para el Bootcamp de Data Analytics de Henry</h2>
 </div>
 <div align="center">
